@@ -1,2 +1,3 @@
 Today session Github
 I've added new line on the remote repository
+I've added new line on the local repository
